@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy ZAI  
 
-<!--
-**chaninii/chaninii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Sistemas Microinformáticos y Redes**  
+🖥️ Me gustan las **PC** y la materia de **aplof**  
+🎬 Fan de ver películas y descansar 💤  
+🌱 Actualmente aprendiendo sobre **redes, hardware y desarrollo**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías e intereses
+- ⚙️ Administración de sistemas  
+- 🌐 Redes y seguridad informática  
+- 💾 Hardware y mantenimiento de PC  
+- 🛠️ Aplicaciones ofimáticas  
+
+---
+
+## 📈 Objetivos
+- Seguir aprendiendo y compartiendo proyectos en GitHub  
+- Practicar con redes, sistemas y ofimática  
+- Conectar con más personas del mundo IT  
+
+---
+
+✨ *“Siempre aprendiendo, siempre avanzando”* ✨  
+
