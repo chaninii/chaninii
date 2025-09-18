@@ -1,4 +1,4 @@
-# 👋 Hola, soy ZAI  
+# 👋 Holi, soy ZAI  
 
 💻 Estudiante de **Sistemas Microinformáticos y Redes**  
 🖥️ Me gustan las **PC** y la materia de **aplof**  
